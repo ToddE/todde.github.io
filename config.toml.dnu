@@ -24,13 +24,13 @@ enableRobotsTXT = true
 
 [params]
   text_color = ""
-  author = ""
+  author = "Todd Emerson"
   favicon = ""
   site_logo = ""
   description = "I'm just a boy standing in front of github asking it to love him."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  recent_posts_number = 3
+  background_color_class = "bg-navy"
+  recent_posts_number = 0
 
 [[params.ananke_socials]]
 name = "github"
