@@ -1,7 +1,7 @@
 baseURL = 'https://todde.github.io/'
 languageCode = 'en-us'
 title = 'HotToddie'
-theme = 'ananke'
+theme = 'ananke-toddmod'
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
