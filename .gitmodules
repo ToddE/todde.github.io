@@ -1,3 +1,6 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/ToddE/todde.github.io/themes/ananke
+[submodule "themes/ananke-toddmod"]
+	path = themes/ananke-toddmod
+	url = https://github.com/ToddE/gohugo-theme-ananke.git
