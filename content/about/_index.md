@@ -1,13 +1,13 @@
 ---
 title: "About"
 description: "When you are a Bear of Very Little Brain, and you Think of Things, you find sometimes that a Thing which seemed very Thingish inside you is quite different when it gets out into the open and has other people looking at it.  ―A.A. Milne, Winnie-the-Pooh"
-featured_image: '/images/pooh.jpg'
+featured_image: '/images/pooh2.jpg'
 private: true
 menu: 
    main:
       weight: 10
 ---
-{{< figure src="/images/pooh.jpg" title="Winnie the Pooh and Piglet on a Blustery Day" >}}
+<!-- {{< figure src="/images/pooh.jpg" title="Winnie the Pooh and Piglet on a Blustery Day" >}} -->
 
 ## Quotes from _Winnie the Pooh_ 
 
@@ -21,4 +21,4 @@ _“You can't stay in your corner of the Forest waiting for others to come to yo
 
 _“They’re funny things, Accidents. You never have them till you’re having them.”_ —Eeyore 
 
-_"“What’s wrong with knowing what you know now and not knowing what you don’t know until later?”_ —Winnie the Pooh
+_"“What’s wrong with knowing what you know now and not knowing what you don’t know until later?”_ —Winnie the Pooh 
